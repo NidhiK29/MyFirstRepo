@@ -8,3 +8,6 @@ BillEase is a smart Bill Reminder System designed to help users efficiently mana
 - Receive reminders before due dates
 - Support recurring bills
 - Track paid and overdue bills
+
+Author: Nidhi 
+Date: 2026
